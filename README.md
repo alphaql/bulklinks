@@ -1,5 +1,6 @@
 # BulkLinks - Generate a set of links from a URL
 
+![BulkLinks Snapshot](https://raw.githubusercontent.com/alphaql/bulklinks/master/app/images/bulkLinks.png)
 
 ## Description
 
